@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Xanh+Mono&display=swap');
+
+
+body html {
+    color: azure;
+    margin: 0;
+    overflow: hidden;
+}
+
+.texto {
+color: #000;
+font-family: 'Handlee', cursive;
+font-size:4.5vw;
+padding-top: 110px;
+text-align: center;
+position: relative;
+bottom: 60px;
+left: 40px;
+
+}  
+
+#inicioDiv {
+   background-image: url("https://img.freepik.com/vector-gratis/elegante-fondo-blanco-lineas-brillantes_1017-17580.jpg?size=626&ext=jpg");
+   background-repeat: no-repeat;
+   background-size: auto;
+   background-size: 100% 100%;
+   height: 700px;
+}
+
+
+
+.row {
+    max-width: 100%;
+    display: flex;
+}
+
+.image {
+    position: relative;
+    bottom: -150px;
+    left: 80px;
+}
+
+.contenedor {
+    /*background: #004336;*/
+    background: linear-gradient(to right,#7FAFB1,#C6E89E,#FBFEB7,#FFB672,#ED9D78);
+    color: #000;
+    font-family: 'Handlee', cursive;
+    height: 800px;
+    text-align: center;
+   
+}
+
+#icono {
+    
+    position: relative;
+    bottom: -150px;
+   
+}
+
+#icono2 {
+    height: 200px;
+    width: 300px;
+    position: relative;
+    top: 150px;
+    left: -10px;
+}
+
+#contacto, .footer {
+    color: #fff;
+    font-family: 'Handlee', cursive;
+}
+
+.nav-link {
+    font-family: 'Handlee', cursive;
+    font-size: 1.3rem;
+}
+
+#github, #linkedin {
+cursor: pointer;
+}
+
+.footer {
+    background-color:#000;
+    padding: 28px;
+    position: relative;
+    top: 100px;
+
+    width: 100%;
+    padding: 50px;
+}
+
+.footer {
+    font-size: 1.5rem;
+}
+.texto1 {
+    text-align: justify;
+    
+    font-size: 3rem;
+}
+
+#sobreDiv {
+    font-size: 3rem;
+
+    
+}
+
+#contacto, #inicio1 {
+    font-size: 3rem;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+
+
+
+h5 {
+    font-family: 'Handlee', cursive;
+    color: #fff;
+}
+
+#sobreMi {
+    font-size: 4rem;
+    text-align: center;
+    position: relative;
+    bottom: -50px;
+}
+
+.lista1 {
+    position: relative;
+    left: 30px;
+    bottom: -90px;
+    color: #000;
+    font-size: 2.5vw;
+    text-align: left;
+}
+
+.lista {
+    position: relative;
+    left: 30px;
+    bottom: -60px;
+    color: #000;
+    font-size: 2.5vw;
+    text-align: left;
+}
+
+
+
+@media (min-width: 950px) and (max-width:1100px)
+
+
+
+
+
